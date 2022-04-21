@@ -1,8 +1,9 @@
 import React from 'react'
+import s from './Junior.module.css'
 
 function Junior() {
     return (
-        <div>
+        <div className={s.body}>
             {/*<HW7/>*/}
             {/*<HW8/>*/}
             {/*<HW9/>*/}
