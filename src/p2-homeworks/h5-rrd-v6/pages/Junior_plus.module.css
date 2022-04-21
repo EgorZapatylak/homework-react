@@ -1,0 +1,5 @@
+.body {
+    background: url("../../../../src/components/img/banner.png") no-repeat;
+    background-size: 100%;
+    height: 780px;
+}
